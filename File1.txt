@@ -4,4 +4,8 @@ Change 1 has been made
 
 Change2 has been made
 
+<<<<<<< HEAD
 checkout at master
+=======
+New branch idea added
+>>>>>>> f6c095f... File1: New branch idea added
